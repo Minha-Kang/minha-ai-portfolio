@@ -1,4 +1,6 @@
-# Project 03. Agent Trajectory Log 실행·수동검증 파이프라인
+# Project 03. Agent Execution Logging & Human Verification Pipeline
+
+*Agent 실행 로그와 사람 검증을 연결하는 평가 파이프라인*
 
 Agent 실행 결과를 최종 답변만으로 평가하지 않고, task별 step log와 summary로 저장해 사람이 다시 검토할 수 있도록 만든 실행·평가 파이프라인 프로젝트입니다.
 
