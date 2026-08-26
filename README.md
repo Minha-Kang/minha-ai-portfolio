@@ -14,7 +14,7 @@
 
 ## 프로젝트 한눈에 보기
 
-총 9개 프로젝트를 8개 주제 폴더에 정리했습니다. Project 07과 08은 머신러닝·딥러닝 실습이라는 공통 주제로 한 폴더에 묶었습니다.
+총 8개 프로젝트를 8개 주제 폴더에 정리했습니다. 구현·연구, 벤치마크 분석, 실행 로그 검증, 서비스 설계, 머신러닝 실습, 산업공학 분석을 프로젝트별로 구분했습니다.
 
 | 번호 | 프로젝트 | 수행 형태 | 핵심 작업 | 저장소에서 확인 가능한 자료 |
 |---:|---|---|---|---|
@@ -24,9 +24,8 @@
 | 04 | [AndroidControl 기반 UI 가독성 분석](projects/04-androidcontrol-ui-readability/) | EDA·연구 설계 | 데이터 정제, 행동 분포·entropy 기반 UI 특성 설계 | 분석 요약·발표/보고서 링크 |
 | 05 | [XAI 기반 쇼핑 앱 UI 복잡도 진단](projects/05-xai-shopping-ui-complexity/) | 팀 프로젝트 | UI 복잡도 특성화, 설명 가능한 개선 방향 도출 | 역할·방법 요약·발표 링크 |
 | 06 | [Ajou Career Navigator](projects/06-ajou-career-navigator/) | 서비스 설계 | 취업 준비 행동 기반 학생 세분화와 개인화 설계 | 분석 계획·서비스 구조·보고서 링크 |
-| 07 | [UCI HAR 인간행동 인식](projects/07-ml-mini-projects/#project-07-uci-har-인간행동-인식) | ML 팀 프로젝트 | 10,299개 표본·561개 특성·6개 행동 분류 | 모델 비교·담당 범위 요약 |
-| 08 | [MNIST·KOSPI 딥러닝 실습](projects/07-ml-mini-projects/#project-08-mnist--rnn-kospi) | 개인 실습 | FCN/CNN 이미지 분류, RNN 시계열 예측 | 데이터·모델·실행 결과 요약 |
-| 09 | [신뢰성·인간공학 분석](projects/08-industrial-engineering-analysis/) | 산업공학 프로젝트 | 반복 굽힘 수명과 작업환경 문제 분석 | 수행 내용·보고서 링크 |
+| 07 | [MNIST·KOSPI 딥러닝 실습](projects/07-ml-mini-projects/) | 개인 실습 | FCN/CNN 이미지 분류, RNN 시계열 예측 | 데이터·모델·실행 결과 요약 |
+| 08 | [신뢰성·인간공학 분석](projects/08-industrial-engineering-analysis/) | 산업공학 프로젝트 | 반복 굽힘 수명과 작업환경 문제 분석 | 수행 내용·보고서 링크 |
 
 ## 대표 역량
 
