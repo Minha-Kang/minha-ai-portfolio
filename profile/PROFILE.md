@@ -10,6 +10,12 @@
 
 LLM을 단순 생성 도구로 사용하기보다, **어떤 기준으로 판단했고 어디서 실패했는지 다시 확인할 수 있는 workflow**로 만드는 데 관심이 있습니다.
 
+## Selected Research
+
+1. **LLM-Based Multi-Agent Service Quality Evaluation from Hotel Reviews**
+2. **Multi-Agent Failure Attribution & Trajectory Quality**
+3. **XAI-Based UI Complexity Diagnostics with AndroidControl**
+
 ## 기술 경험
 
 - Python, pandas, NumPy, scikit-learn, PyTorch
