@@ -1,4 +1,6 @@
-# Project 02. Who & When 기반 Multi-Agent 실패귀속 분석
+# Project 02. Multi-Agent Failure Attribution & Trajectory Quality
+
+*Who & When 벤치마크 기반 멀티에이전트 실패귀속 및 궤적 품질 분석*
 
 멀티에이전트 시스템이 실패했을 때 **누가 실패했는지(Who)**와 **어느 단계가 결정적 오류인지(When)**를 분리해 분석한 벤치마크 EDA·연구질문 설계 프로젝트입니다.
 
