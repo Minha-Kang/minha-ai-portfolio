@@ -14,14 +14,14 @@
 
 | 프로젝트 | 대표 Drive 자료 | 저장소 반영 |
 |---|---|---|
-| 호텔 리뷰 Agentic AI | 8/18 발표, 8/2 코드 패키지, validation report | 코드·README·검증 문서 포함 |
-| Who&When 실패귀속 | 분석보고서, 4/28 발표, EDA 요약 | EDA 요약 포함, 외부 원본 코드 제외 |
-| Agent Trajectory Validation | step log, task summary, manual review template | 요약·검수 템플릿 포함 |
-| AndroidControl UI 가독성 | 최종 발표, 연구 보고서, EDA deck | README와 원본 링크 포함 |
-| XAI 쇼핑 앱 UI 복잡도 | 6조 최종발표자료 | README와 원본 링크 포함 |
-| Ajou Career Navigator | 맞춤형 서비스 설계 보고서 | README와 원본 링크 포함 |
-| MNIST·KOSPI | 수업 발표·실행 결과 | 프로젝트 요약과 원본 파일명 기록 |
-| 신뢰성·인간공학 | 클립 수명 분석, 인간공학 보고서 | 프로젝트 요약과 원본 링크 기록 |
+| LLM-Based Multi-Agent Service Quality Evaluation from Hotel Reviews | 8/18 발표, 8/2 코드 패키지, validation report | 코드·README·검증 문서 포함 |
+| Multi-Agent Failure Attribution & Trajectory Quality | 분석보고서, 4/28 발표, EDA 요약 | EDA 요약 포함, 외부 원본 코드 제외 |
+| Agent Execution Logging & Human Verification Pipeline | step log, task summary, manual review template | 요약·검수 템플릿 포함 |
+| Agent Behavior–Based UI Readability Analysis with AndroidControl | 최종 발표, 연구 보고서, EDA deck | README와 원본 링크 포함 |
+| XAI-Based UI Complexity Diagnostics with AndroidControl | 6조 최종발표자료 | README와 원본 링크 포함 |
+| Ajou Career Navigator: Data-Driven Personalized Career Support | 맞춤형 서비스 설계 보고서 | README와 원본 링크 포함 |
+| Deep Learning Practice: MNIST Classification & KOSPI Forecasting | 수업 발표·실행 결과 | 프로젝트 요약과 원본 파일명 기록 |
+| Reliability Engineering & Human Factors Analysis | 클립 수명 분석, 인간공학 보고서 | 프로젝트 요약과 원본 링크 기록 |
 
 ## 제외한 자료 유형
 
