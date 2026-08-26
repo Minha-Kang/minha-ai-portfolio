@@ -1,0 +1,129 @@
+﻿split,broad_domain,n
+Algorithm-Generated,Local POI search,8
+Algorithm-Generated,Wikipedia/web history,5
+Algorithm-Generated,Real estate market lookup,4
+Algorithm-Generated,Corporate people/timeline,3
+Algorithm-Generated,Entertainment/media lookup,3
+Algorithm-Generated,Spreadsheet/table query,3
+Algorithm-Generated,Ticket/pass cost comparison,3
+Algorithm-Generated,Weather & probability,3
+Algorithm-Generated,Wildlife/environment records,3
+Algorithm-Generated,Art/history biography lookup,2
+Algorithm-Generated,Audio/document understanding,2
+Algorithm-Generated,Bioinformatics/file retrieval,2
+Algorithm-Generated,Math/logic puzzle,2
+Algorithm-Generated,Shipping/logistics pricing,2
+Algorithm-Generated,Software/GitHub history,2
+Algorithm-Generated,Transit schedule/route,2
+Algorithm-Generated,Academic authorship history,1
+Algorithm-Generated,Ancient script/numeral decoding,1
+Algorithm-Generated,Art/citation chain,1
+Algorithm-Generated,Astronaut/space history lookup,1
+Algorithm-Generated,Book/chapter influence lookup,1
+Algorithm-Generated,Census/geographic statistics,1
+Algorithm-Generated,Census/social statistics,1
+Algorithm-Generated,Check digit/math,1
+Algorithm-Generated,Chess puzzle,1
+Algorithm-Generated,Citation verification,1
+Algorithm-Generated,Clinical trial registry lookup,1
+Algorithm-Generated,Conference/publication count,1
+Algorithm-Generated,Cross-source fact chain,1
+Algorithm-Generated,Dictionary/quote source lookup,1
+Algorithm-Generated,Entertainment/casting lookup,1
+Algorithm-Generated,Entertainment/media comparison,1
+Algorithm-Generated,Film scene detail lookup,1
+Algorithm-Generated,Finance/business analysis,1
+Algorithm-Generated,Food taxonomy/classification,1
+Algorithm-Generated,Game-theory optimization,1
+Algorithm-Generated,Geographic distance comparison,1
+Algorithm-Generated,Geography/demography lookup,1
+Algorithm-Generated,Geometry from image,1
+Algorithm-Generated,Government/education history,1
+Algorithm-Generated,Historical office-holder lookup,1
+Algorithm-Generated,Historical sports fact,1
+Algorithm-Generated,Landmark identification & measurement,1
+Algorithm-Generated,Language/translation,1
+Algorithm-Generated,Library/catalog metadata,1
+Algorithm-Generated,Literature/poetry analysis,1
+Algorithm-Generated,Literature/quote lookup,1
+Algorithm-Generated,Logic deduction puzzle,1
+Algorithm-Generated,Math/physics calculation,1
+Algorithm-Generated,Math/statistics from image,1
+Algorithm-Generated,Multi-step code execution,1
+Algorithm-Generated,Museum/art image counting,1
+Algorithm-Generated,Music criticism lookup,1
+Algorithm-Generated,Music notation puzzle,1
+Algorithm-Generated,Music/lyrics lookup,1
+Algorithm-Generated,Numerical methods,1
+Algorithm-Generated,OCR/worksheet extraction,1
+Algorithm-Generated,Probability optimization,1
+Algorithm-Generated,Programming/code repair,1
+Algorithm-Generated,Rate extrapolation calculation,1
+Algorithm-Generated,Research figure/text extraction,1
+Algorithm-Generated,Resume/qualification matching,1
+Algorithm-Generated,Scholarly note/citation lookup,1
+Algorithm-Generated,Scholarly paper chemistry lookup,1
+Algorithm-Generated,Scholarly paper lookup,1
+Algorithm-Generated,Scholarly publication count,1
+Algorithm-Generated,Scientific reference statistics,1
+Algorithm-Generated,Social statistics calculation,1
+Algorithm-Generated,Software changelog lookup,1
+Algorithm-Generated,Software tutorial lookup,1
+Algorithm-Generated,Sports roster/stat lookup,1
+Algorithm-Generated,Sports stats lookup,1
+Algorithm-Generated,Spreadsheet/inventory query,1
+Algorithm-Generated,Spreadsheet/path puzzle,1
+Algorithm-Generated,Statistical inference,1
+Algorithm-Generated,Symbol/visual interpretation,1
+Algorithm-Generated,Symbolic logic,1
+Algorithm-Generated,TV script lookup,1
+Algorithm-Generated,Travel accessibility filtering,1
+Algorithm-Generated,Travel recommendation filtering,1
+Algorithm-Generated,Travel/logistics calculation,1
+Algorithm-Generated,Video game/media identification,1
+Algorithm-Generated,Video observation/counting,1
+Algorithm-Generated,Video quote extraction,1
+Algorithm-Generated,Video-to-web fact lookup,1
+Algorithm-Generated,Video/audio extraction,1
+Algorithm-Generated,Web archive menu comparison,1
+Algorithm-Generated,Web/archive text lookup,1
+Algorithm-Generated,Wikipedia editorial history,1
+Algorithm-Generated,Wikipedia/web metadata,1
+Algorithm-Generated,Wildlife population comparison,1
+Algorithm-Generated,Wildlife video species ID,1
+Algorithm-Generated,Word/logic puzzle,1
+Hand-Crafted,Local POI search,7
+Hand-Crafted,Entertainment/media lookup,5
+Hand-Crafted,Corporate people/timeline,3
+Hand-Crafted,Real estate market lookup,3
+Hand-Crafted,Bioinformatics/file retrieval,2
+Hand-Crafted,Finance/business analysis,2
+Hand-Crafted,Language/translation,2
+Hand-Crafted,Math/physics calculation,2
+Hand-Crafted,Scholarly paper lookup,2
+Hand-Crafted,Shipping/logistics pricing,2
+Hand-Crafted,Software/GitHub history,2
+Hand-Crafted,Ticket/pass cost comparison,2
+Hand-Crafted,Transit schedule/route,2
+Hand-Crafted,Weather & probability,2
+Hand-Crafted,Audio/document understanding,1
+Hand-Crafted,Cross-source fact chain,1
+Hand-Crafted,Document content counting,1
+Hand-Crafted,Entertainment/market pricing,1
+Hand-Crafted,Legal text history,1
+Hand-Crafted,Library/catalog metadata,1
+Hand-Crafted,Literature/quote lookup,1
+Hand-Crafted,Macro/World Bank data,1
+Hand-Crafted,Music/lyrics lookup,1
+Hand-Crafted,Programming/code repair,1
+Hand-Crafted,Scholarly note/citation lookup,1
+Hand-Crafted,Sports roster/stat lookup,1
+Hand-Crafted,Travel accessibility filtering,1
+Hand-Crafted,Travel recommendation filtering,1
+Hand-Crafted,Video observation/counting,1
+Hand-Crafted,Video-to-web fact lookup,1
+Hand-Crafted,Web/archive text lookup,1
+Hand-Crafted,Wikipedia/web history,1
+Hand-Crafted,Wildlife/biology data,1
+Hand-Crafted,Wildlife/environment records,1
+
