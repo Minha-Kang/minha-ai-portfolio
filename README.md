@@ -18,14 +18,14 @@
 
 | 번호 | 프로젝트 | 수행 형태 | 핵심 작업 | 저장소에서 확인 가능한 자료 |
 |---:|---|---|---|---|
-| 01 | [호텔 리뷰 Agentic AI 서비스 품질평가](projects/01-hotel-review-agentic-ai/) | 구현·연구 | 6단계 분석, 별점 영향 계산, 개선안 생성, Literature RAG Judge | Python 2개, 요구사항, 검증 문서 |
-| 02 | [Who & When 기반 Multi-Agent 실패귀속](projects/02-multi-agent-failure-attribution/) | 벤치마크 분석·EDA | 실패 Agent와 결정적 오류 Step 분리, failure taxonomy 재구성 | 184개 task의 요약 CSV 3종 |
-| 03 | [Agent Trajectory Log 실행·수동검증](projects/03-agent-trajectory-validation/) | 파이프라인 설계·실행 | Step log, task summary, human review template | 실행 요약 샘플·설정·검수 양식 |
-| 04 | [AndroidControl 기반 UI 가독성 분석](projects/04-androidcontrol-ui-readability/) | EDA·연구 설계 | 데이터 정제, 행동 분포·entropy 기반 UI 특성 설계 | 분석 요약·발표/보고서 링크 |
-| 05 | [XAI 기반 쇼핑 앱 UI 복잡도 진단](projects/05-xai-shopping-ui-complexity/) | 팀 프로젝트 | UI 복잡도 특성화, 설명 가능한 개선 방향 도출 | 역할·방법 요약·발표 링크 |
-| 06 | [Ajou Career Navigator](projects/06-ajou-career-navigator/) | 서비스 설계 | 취업 준비 행동 기반 학생 세분화와 개인화 설계 | 분석 계획·서비스 구조·보고서 링크 |
-| 07 | [MNIST·KOSPI 딥러닝 실습](projects/07-ml-mini-projects/) | 개인 실습 | FCN/CNN 이미지 분류, RNN 시계열 예측 | 데이터·모델·실행 결과 요약 |
-| 08 | [신뢰성·인간공학 분석](projects/08-industrial-engineering-analysis/) | 산업공학 프로젝트 | 반복 굽힘 수명과 작업환경 문제 분석 | 수행 내용·보고서 링크 |
+| 01 | [LLM-Based Multi-Agent Service Quality Evaluation from Hotel Reviews](projects/01-hotel-review-agentic-ai/) | 구현·연구 | 6단계 분석, 별점 영향 계산, 개선안 생성, Literature RAG Judge | Python 2개, 요구사항, 검증 문서 |
+| 02 | [Multi-Agent Failure Attribution & Trajectory Quality](projects/02-multi-agent-failure-attribution/) | 벤치마크 분석·EDA | 실패 Agent와 결정적 오류 Step 분리, failure taxonomy 재구성 | 184개 task의 요약 CSV 3종 |
+| 03 | [Agent Execution Logging & Human Verification Pipeline](projects/03-agent-trajectory-validation/) | 파이프라인 설계·실행 | Step log, task summary, human review template | 실행 요약 샘플·설정·검수 양식 |
+| 04 | [Agent Behavior–Based UI Readability Analysis with AndroidControl](projects/04-androidcontrol-ui-readability/) | EDA·연구 설계 | 데이터 정제, 행동 분포·entropy 기반 UI 특성 설계 | 분석 요약·발표/보고서 링크 |
+| 05 | [XAI-Based UI Complexity Diagnostics with AndroidControl](projects/05-xai-shopping-ui-complexity/) | 팀 프로젝트 | UI 복잡도 특성화, 설명 가능한 개선 방향 도출 | 역할·방법 요약·발표 링크 |
+| 06 | [Ajou Career Navigator: Data-Driven Personalized Career Support](projects/06-ajou-career-navigator/) | 서비스 설계 | 취업 준비 행동 기반 학생 세분화와 개인화 설계 | 분석 계획·서비스 구조·보고서 링크 |
+| 07 | [Deep Learning Practice: MNIST Classification & KOSPI Forecasting](projects/07-ml-mini-projects/) | 개인 실습 | FCN/CNN 이미지 분류, RNN 시계열 예측 | 데이터·모델·실행 결과 요약 |
+| 08 | [Reliability Engineering & Human Factors Analysis](projects/08-industrial-engineering-analysis/) | 산업공학 프로젝트 | 반복 굽힘 수명과 작업환경 문제 분석 | 수행 내용·보고서 링크 |
 
 ## 대표 역량
 
