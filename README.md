@@ -40,7 +40,7 @@ Who & When 벤치마크의 184개 task를 분석해 실패 책임 Agent와 결�
 
 ## 저장소 구조
 
-\`\`\`text
+```text
 minha-ai-portfolio/
 ├── README.md
 ├── profile/
@@ -53,4 +53,4 @@ minha-ai-portfolio/
 │   └── 05-xai-shopping-ui-complexity/
 └── docs/
     └── DRIVE_SOURCE_INDEX.md
-\`\`\`
+```
