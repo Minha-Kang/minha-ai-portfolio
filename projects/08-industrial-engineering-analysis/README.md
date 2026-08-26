@@ -1,4 +1,6 @@
-# Project 08. 신뢰성·인간공학 분석
+# Project 08. Reliability Engineering & Human Factors Analysis
+
+*산업공학 기반 수명 데이터 및 인간 중심 작업환경 분석*
 
 AI 프로젝트 외에 산업공학의 기본인 수명 데이터 해석과 인간 중심의 작업·사용 환경 개선 경험을 정리한 프로젝트입니다.
 
