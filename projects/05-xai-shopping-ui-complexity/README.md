@@ -1,4 +1,6 @@
-# Project 05. XAI 기반 쇼핑 앱 UI 복잡도 진단
+# Project 05. XAI-Based UI Complexity Diagnostics with AndroidControl
+
+*Original team project: XAI-Based UI Complexity Diagnostics for Better Shopping App Design*
 
 쇼핑 앱의 화면 구성과 사용자 경험을 설명 가능한 방식으로 분석하고, 모델의 판단을 UI 개선 방향으로 연결한 팀 프로젝트입니다.
 
