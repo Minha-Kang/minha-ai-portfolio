@@ -14,7 +14,7 @@
 
 ## 프로젝트 한눈에 보기
 
-총 8개 프로젝트를 8개 주제 폴더에 정리했습니다. 구현·연구, 벤치마크 분석, 실행 로그 검증, 서비스 설계, 머신러닝 실습, 산업공학 분석을 프로젝트별로 구분했습니다.
+총 5개 핵심 프로젝트를 5개 주제 폴더에 정리했습니다. Agentic AI 구현·연구, 벤치마크 분석, 실행 로그 검증, UI 행동 분석과 XAI 모델링을 프로젝트별로 구분했습니다.
 
 | 번호 | 프로젝트 | 수행 형태 | 핵심 작업 | 저장소에서 확인 가능한 자료 |
 |---:|---|---|---|---|
@@ -23,9 +23,6 @@
 | 03 | [Agent Execution Logging & Human Verification Pipeline](projects/03-agent-trajectory-validation/) | 파이프라인 설계·실행 | Step log, task summary, human review template | 실행 요약 샘플·설정·검수 양식 |
 | 04 | [Agent Behavior–Based UI Readability Analysis with AndroidControl](projects/04-androidcontrol-ui-readability/) | EDA·연구 설계 | 데이터 정제, 행동 분포·entropy 기반 UI 특성 설계 | 분석 요약·발표/보고서 링크 |
 | 05 | [XAI-Based UI Complexity Diagnostics with AndroidControl](projects/05-xai-shopping-ui-complexity/) | 팀 프로젝트 | UI 복잡도 특성화, 설명 가능한 개선 방향 도출 | 역할·방법 요약·발표 링크 |
-| 06 | [Ajou Career Navigator: Data-Driven Personalized Career Support](projects/06-ajou-career-navigator/) | 서비스 설계 | 취업 준비 행동 기반 학생 세분화와 개인화 설계 | 분석 계획·서비스 구조·보고서 링크 |
-| 07 | [Deep Learning Practice: MNIST Classification & KOSPI Forecasting](projects/07-ml-mini-projects/) | 개인 실습 | FCN/CNN 이미지 분류, RNN 시계열 예측 | 데이터·모델·실행 결과 요약 |
-| 08 | [Reliability Engineering & Human Factors Analysis](projects/08-industrial-engineering-analysis/) | 산업공학 프로젝트 | 반복 굽힘 수명과 작업환경 문제 분석 | 수행 내용·보고서 링크 |
 
 ## 대표 역량
 
@@ -39,7 +36,7 @@ Who & When 벤치마크의 184개 task를 분석해 실패 책임 Agent와 결�
 
 ### 3. 모델 결과를 서비스 개선안으로 연결
 
-리뷰의 Feature·Customer Journey·Sentiment를 별점 하락과 연결하고, 담당 부서·실행 단계·KPI·제약조건을 갖춘 개선조치 schema로 변환했습니다. Ajou Career Navigator에서는 분석 기법을 학생 세분화와 상담·프로그램 추천 구조로 연결했습니다.
+리뷰의 Feature·Customer Journey·Sentiment를 별점 하락과 연결하고, 담당 부서·실행 단계·KPI·제약조건을 갖춘 개선조치 schema로 변환했습니다.
 
 ## 저장소 구조
 
@@ -53,10 +50,7 @@ minha-ai-portfolio/
 │   ├── 02-multi-agent-failure-attribution/
 │   ├── 03-agent-trajectory-validation/
 │   ├── 04-androidcontrol-ui-readability/
-│   ├── 05-xai-shopping-ui-complexity/
-│   ├── 06-ajou-career-navigator/
-│   ├── 07-ml-mini-projects/
-│   └── 08-industrial-engineering-analysis/
+│   └── 05-xai-shopping-ui-complexity/
 └── docs/
     └── DRIVE_SOURCE_INDEX.md
 ```
