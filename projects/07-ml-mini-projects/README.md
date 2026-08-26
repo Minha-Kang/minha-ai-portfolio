@@ -1,15 +1,17 @@
-# Project 07. MNIST·KOSPI 딥러닝 실습
+# Project 07. Deep Learning Practice: MNIST Classification & KOSPI Forecasting
+
+*PyTorch 기반 이미지 분류 및 시계열 예측 실습*
 
 이미지 분류와 시계열 예측 문제를 통해 전처리, 신경망 구조 설계, 성능 해석과 결과 시각화를 연습한 개인 실습 프로젝트입니다.
 
-## MNIST 이미지 분류
+## 7A. MNIST Image Classification with PyTorch
 
 - PyTorch 기반 Fully Connected Network와 Convolutional Neural Network 구성
 - 60,000개 학습 데이터와 10,000개 테스트 데이터 사용
 - 구조 차이가 이미지의 공간 정보 활용에 미치는 영향 비교
 - 분류 결과와 모델 활용 사례를 발표 자료로 정리
 
-## RNN KOSPI 시계열 예측
+## 7B. KOSPI Time-Series Forecasting with a Vanilla RNN
 
 - Open·High·Low·Volume을 포함한 과거 5일 입력으로 다음 날 Close 예측
 - PyTorch 기반 Vanilla RNN 시계열 모델 구현
