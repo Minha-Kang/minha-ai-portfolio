@@ -1,4 +1,6 @@
-# Project 01. 호텔 리뷰 Agentic AI 서비스 품질평가
+# Project 01. LLM-Based Multi-Agent Service Quality Evaluation from Hotel Reviews
+
+*호텔 리뷰 기반 LLM 멀티에이전트 서비스 품질평가*
 
 호텔 리뷰 원문을 단계별로 분석해 서비스 문제를 식별하고, 별점 영향과 실행 가능한 운영 개선안까지 연결하는 Agentic AI 연구 프로젝트입니다. 핵심 목표는 LLM의 최종 답변만 얻는 것이 아니라 **판단 근거·단계 간 전달·계산식·실패 기록을 다시 추적할 수 있는 평가 workflow**를 만드는 것이었습니다.
 
