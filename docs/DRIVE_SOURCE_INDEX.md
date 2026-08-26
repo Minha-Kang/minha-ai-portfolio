@@ -20,7 +20,7 @@
 | AndroidControl UI 가독성 | 최종 발표, 연구 보고서, EDA deck | README와 원본 링크 포함 |
 | XAI 쇼핑 앱 UI 복잡도 | 6조 최종발표자료 | README와 원본 링크 포함 |
 | Ajou Career Navigator | 맞춤형 서비스 설계 보고서 | README와 원본 링크 포함 |
-| UCI HAR·MNIST·KOSPI | 수업 발표·실행 결과 | 프로젝트 요약과 원본 파일명 기록 |
+| MNIST·KOSPI | 수업 발표·실행 결과 | 프로젝트 요약과 원본 파일명 기록 |
 | 신뢰성·인간공학 | 클립 수명 분석, 인간공학 보고서 | 프로젝트 요약과 원본 링크 기록 |
 
 ## 제외한 자료 유형
