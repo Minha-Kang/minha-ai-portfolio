@@ -1,4 +1,6 @@
-# Project 04. AndroidControl 기반 UI 가독성·행동 복잡도 분석
+# Project 04. Agent Behavior–Based UI Readability Analysis with AndroidControl
+
+*AndroidControl Agent 행동을 활용한 UI 가독성·행동 복잡도 분석*
 
 AndroidControl Agent trajectory를 활용해 앱 화면과 행동 분포의 복잡도를 정량화하고, 이를 UI 가독성 평가 특성으로 연결한 EDA·연구 설계 프로젝트입니다.
 
