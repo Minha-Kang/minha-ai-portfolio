@@ -1,4 +1,6 @@
-# Project 06. Ajou Career Navigator
+# Project 06. Ajou Career Navigator: Data-Driven Personalized Career Support
+
+*아주대학교 학생을 위한 데이터 기반 맞춤형 진로·취업 지원 서비스 설계*
 
 아주대학교 대학일자리플러스센터의 서비스를 학생의 학년뿐 아니라 실제 취업 준비 행동과 이용 이력에 따라 연결하는 데이터 기반 맞춤화 서비스 제안입니다.
 
