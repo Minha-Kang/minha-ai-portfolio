@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Raw data and generated outputs
+data/raw/
+outputs/
+*.arrow
+*.log
+
+# Office temporary files
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
