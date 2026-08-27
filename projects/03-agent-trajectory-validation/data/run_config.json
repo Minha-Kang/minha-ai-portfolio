@@ -1,9 +1,0 @@
-{
-  "model": "gpt-4o-mini",
-  "n_tasks": 100,
-  "max_tasks_to_run": 100,
-  "save_every": 5,
-  "sleep_between_calls": 0.2,
-  "run_dir": "batch_run_20260526_174343",
-  "goal": "Agent AI successful implementation with many normal tasks. No intentional failure injection."
-}

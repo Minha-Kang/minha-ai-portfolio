@@ -10,18 +10,20 @@
 
 LLM을 단순 생성 도구로 사용하기보다, **어떤 기준으로 판단했고 어디서 실패했는지 다시 확인할 수 있는 workflow**로 만드는 데 관심이 있습니다.
 
+현재는 호텔 리뷰에서 서비스 문제의 근거를 추출하고, 호텔별 개선 우선순위와 실행안까지 연결하는 Multi-Agent 연구를 논문으로 작성하고 있습니다.
+
 ## Selected Research
 
-1. **LLM-Based Multi-Agent Service Quality Evaluation from Hotel Reviews**
+1. **LLM-Based Multi-Agent Service Quality Evaluation from Hotel Reviews** — 대표 연구·논문 작성 중
 2. **Multi-Agent Failure Attribution & Trajectory Quality**
-3. **XAI-Based UI Complexity Diagnostics with AndroidControl**
+3. **AndroidControl UI Readability & XAI Complexity Analysis**
 
 ## 기술 경험
 
 - Python, pandas, NumPy, scikit-learn, PyTorch
 - OpenAI Responses API, Structured Outputs, Embeddings
 - Agent workflow, RAG, LLM-as-a-Judge
-- CSV/JSONL 기반 audit log와 평가 데이터셋 설계
+- CSV·JSONL 기반 audit log와 평가 데이터셋 설계
 - 텍스트 마이닝, 감성분석, 분류, 회귀, 군집화
 
 ## 경험
