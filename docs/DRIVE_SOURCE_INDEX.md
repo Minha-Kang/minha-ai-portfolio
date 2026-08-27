@@ -17,7 +17,7 @@
 | 03. AndroidControl UI Readability & XAI | 35 | 5 | 6 |
 | **합계** | **155** | **26** | **37** |
 
-`Drive 관련 후보`는 인벤토리 단계에서 연결된 파일 수이며 중복·중간본을 포함합니다. `새로 반입`은 이번 정리에서 GitHub에 추가한 실제 Drive 파일 수입니다. `저장소 최종 파일 수`에는 기존 코드·CSV·README도 포함합니다.
+
 
 ## 선별 원칙
 
@@ -42,7 +42,6 @@
 | 검증 workbook | `data/hotel_gold_label_200_guest_cycle_v8.xlsx`, `results/hotel_v8_199_regression_rag_judge.xlsx` |
 | 운영 보고서 | `results/dynamic_orchestrator_manager_report.md`, `sequential_manager_report.md`, `pilot_summary_report.md` |
 
-기존 GitHub의 코드 2개, `requirements.txt`, 원본 README와 validation 문서는 중복 반입하지 않고 그대로 유지했습니다.
 
 ### 제외
 
@@ -65,7 +64,6 @@
 
 - 외부 Who & When·Automated Failure Attribution 원본 코드와 논문 PDF
 - 전체 trajectory 원본과 임시 EDA 산출물
-- 중복 발표본과 수업 진행용 중간 파일
 
 ## Project 03 — AndroidControl UI Readability & XAI
 
@@ -84,16 +82,9 @@
 
 ### 개인정보 처리
 
-- XAI 원본 PDF 첫 페이지의 학번 5개와 팀원 이름을 제거했습니다.
+- XAI 원본 PDF 첫 페이지의 학번과 팀원 이름을 제거했습니다.
 - 마지막 기여 역할 표의 팀원 이름은 익명화하고, 강민하의 역할만 식별 가능한 형태로 유지했습니다.
 - 개인정보가 포함된 원본 PDF는 GitHub에 포함하지 않았습니다.
-
-### 제외
-
-- AndroidControl raw dataset·screenshot·JSON 전체
-- 중간 발표본, 중복 그래프와 중복 스크립트
-- 학번·팀원 이름이 포함된 XAI 원본 PDF
-- 외부 공개 dataset 자체와 학습 cache
 
 ## 공개 저장소 해석 기준
 
