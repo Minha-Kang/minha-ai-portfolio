@@ -2,32 +2,25 @@
 
 ## 강민하
 
-- 아주대학교 산업공학과, 졸업 예정
-- 관심 직무: Agent AI Engineer, AI Automation Engineer, LLM Evaluation, Data/Service Analytics
-- 핵심 키워드: Agentic AI, LLM-as-a-Judge, Text Mining, Audit Log, Failure Attribution, Service Engineering
+아주대학교 산업공학과 학부생이며 SI.lab에서 학부연구원으로 활동하고 있습니다. 텍스트 데이터와 LLM Agent의 출력을 검증 가능한 분석 과정으로 만들고, 그 결과를 실제 의사결정에 연결하는 문제에 관심이 있습니다.
 
-## 한 줄 소개
+- B.S. in Industrial Engineering, Ajou University (Expected Feb. 2027)
+- Undergraduate Researcher, SI.lab (Jan. 2026 - Present)
+- Research interests: Text Mining, Agentic AI, AI Evaluation, Service Analytics
 
-LLM을 단순 생성 도구로 사용하기보다, **어떤 기준으로 판단했고 어디서 실패했는지 다시 확인할 수 있는 workflow**로 만드는 데 관심이 있습니다.
+## Selected projects
 
-현재는 호텔 리뷰에서 서비스 문제의 근거를 추출하고, 호텔별 개선 우선순위와 실행안까지 연결하는 Multi-Agent 연구를 논문으로 작성하고 있습니다.
+1. **Hotel Review Agentic AI** — Current research, manuscript in preparation
+2. **Multi-Agent Failure Attribution & Trajectory Quality** — Completed
+3. **AndroidControl UI Behavior Analysis & XAI Diagnostics** — Completed
+4. **Time-Use-Based B2B Service Module Recommendation** — Completed
 
-## Selected Research
-
-1. **LLM-Based Multi-Agent Service Quality Evaluation from Hotel Reviews** — 대표 연구·논문 작성 중
-2. **Multi-Agent Failure Attribution & Trajectory Quality**
-3. **AndroidControl UI Readability & XAI Complexity Analysis**
-
-## 기술 경험
+## Experience
 
 - Python, pandas, NumPy, scikit-learn, PyTorch
-- OpenAI Responses API, Structured Outputs, Embeddings
-- Agent workflow, RAG, LLM-as-a-Judge
-- CSV·JSONL 기반 audit log와 평가 데이터셋 설계
-- 텍스트 마이닝, 감성분석, 분류, 회귀, 군집화
+- OpenAI API and Agents SDK, structured outputs, agent handoffs and guardrails
+- Gold-label validation, error analysis, audit logs and reproducible experiments
+- Text mining, regression, PCA/factor analysis, Entropy-ROC, QFD and SHAP
 
-## 경험
+현재 진행 중인 연구와 완료 프로젝트의 자료는 [minha-ai-portfolio](https://github.com/Minha-Kang/minha-ai-portfolio)에 정리했습니다.
 
-- 배상면주가 마케팅 인턴, 2020.01–2020.02
-  - 4가지 맛을 계절 콘셉트로 연결하는 마케팅 아이디어 기획
-- 산업공학·서비스공학 수업과 개인 연구를 통해 Agent AI 및 데이터 분석 프로젝트 수행
